@@ -29,6 +29,12 @@ GitHub provides many tools to help us integrate better with the project, and let
 
 Submit issues to the team using the provided templates so we can look into them. User feedback and support allow us to keep making something amazing, and this way we will have a centralized space alongside our [Discord server](https://discord.gg/eH5vf65) to keep up communication.
 
+NOTE: Please search for any similar issues first before creating new ones.
+
+#### Player.log and Player-prev.log Files
+
+To assist us with any crashes, please include your Player.log and Player-prev.log files, which can be located at `C:\Users\[USERNAME]\AppData\LocalLow\Radian Simulations LLC\GHPC`. Issue reports of crashes that do not have the prerequisite files will be closed.
+
 ### Where is the code?
 
 This is just a space for issues and feedback. The code for _GHPC_ is not publicly avaiable. Please see the [main site FAQ](https://gunnerheatpc.com/news/articles/ghpc-faq) for more information.

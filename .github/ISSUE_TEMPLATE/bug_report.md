@@ -11,6 +11,10 @@ assignees: ''
 
 A clear and concise description of what the bug is.
 
+**Are you playing with mods?**
+
+Yes or no. If yes, please note which mods here. Continued development increases risks of mods having or causing issues with the game. Use them at your own risk.
+
 **To Reproduce**
 
 Steps to reproduce the behavior:

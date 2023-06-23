@@ -13,7 +13,7 @@ A clear and concise description of what the bug is.
 
 **Are you playing with mods?**
 
-Yes or no. If yes, please note which mods here. Continued development increases risks of mods having or causing issues with the game. Use them at your own risk.
+Yes or no. If yes, please note which mods here. Any third-party content may be incompatible with GHPC's ongoing updates. While issues related to third-party content are not a priority for development, known conflicts can be reported for other users.
 
 **To Reproduce**
 

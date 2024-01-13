@@ -31,6 +31,12 @@ A clear and concise description of what you expected to happen.
 
 If applicable, add screenshots to help explain your problem.
 
+**Player Log**
+
+If this issue is regarding a crash or an issue during gameplay, please attach a Player.log file from the session where the issue occurred. The last two Player.log files generated during play sessions can be found here: `C:\Users\[USERNAME]\AppData\LocalLow\Radian Simulations LLC\GHPC`
+
+If the player log includes a reference to a crash.dmp file, you should attach that as well.
+
 **Sources**
 
 If applicable, cite any public confirmed sources needed to justify issues involving armor values and ammunition types.

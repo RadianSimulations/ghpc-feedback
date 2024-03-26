@@ -35,7 +35,7 @@ If applicable, add screenshots to help explain your problem.
 
 If this issue is regarding a crash or an issue during gameplay, please attach a Player.log file from the session where the issue occurred. The last two Player.log files generated during play sessions can be found here: `C:\Users\[USERNAME]\AppData\LocalLow\Radian Simulations LLC\GHPC`
 
-If the player log includes a reference to a crash.dmp file, you should attach that as well.
+If the player log includes a reference to a crash.dmp file, you should attach that as well. If there is no crash dump located where the Player.log references it, check `%LOCALAPPDATA%\CrashDumps` and find the crash dump file corresponding to the application at the time the crash occurred.
 
 **Sources**
 
